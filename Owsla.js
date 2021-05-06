@@ -53,10 +53,10 @@ client.on('error', e => {
 
 client.ayarlar = {
   "prefix": [".", "!", "d!", "D!"],
-  "token": "ODIxODMzMjE4MjI3MDQ0NDIz.YFJd1A.ucZN1Ql8Uq0q7SKG0d1LnUiPZCs",
-  "yapimci": ["751524861205282969"],
-  "footer": "Owsla 💜 Dark Paradise",
-  "readyFooter": ["Owsla 💜 Dark Paradise", "Ghost 💜 Dark Paradise", "Tequlero 💜 Dark Paradise", "Emsalsiz 💜 Dark Paradise", "Owsla Was Here ?"],
+  "token": "ODMyMTY0MzE4MDk0MDMyOTI2.YHfzag.Q80XPLHZszR3y2TG2oO3-k7YVEY",
+  "yapimci": ["815827154247090176"],
+  "footer": "Lesyon 💜 Roma Army",
+  "readyFooter": ["Lesyon 💜 Roma Army", "Archie 💜 Roma Army", "Tomy 💜 Roma Army", "Bıdık Duygu 💜 Roma Army", "Lesyon Was Here ?"],
   "kufurler": ["@here", "@everyone", "anskm", "orosbu", "orosb", "0r0spuc0cu", "4n4n1 sk3r1m", "p1c", "@n@nı skrm", "evladi", "orsb", "orsbcogu", "amnskm", "anaskm", "mk", "oc", "abaza", "abazan", "ag", "ağzına sıçayım", "fuck",
     "shit", "ahmak", "seks", "sex", "allahsız", "amarım", "ambiti", "am biti", "amcığı", "amcığın", "amcığını", "amcığınızı", "amcık", "amcık hoşafı", "amcıklama", "amcıklandı", "amcik", "amck",
     "amckl", "amcklama", "amcklaryla", "amckta", "amcktan", "amcuk", "amık", "amına", "amınako", "amına koy", "amına koyarım", "amına koyayım", "amınakoyim", "amına koyyim", "amına s", "amına sikem",
